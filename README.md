@@ -2,10 +2,10 @@
 
 <div>
 
-    <center>
+<center>
 
-        <h3>Data Manipulation</h3>
+<h3>Data Manipulation</h3>
 
-    </center>
+</center>
 
 </div>
