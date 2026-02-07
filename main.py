@@ -13,6 +13,6 @@ music, sr = librosa.load('data/testAudio.mp3', sr=None, mono=True,offset= 81, du
 
 # Extract features
 librosa.display.waveshow(music, sr=sr)
-plt.title('Waveform of the Audio')
+plt.title('Waveform of Audio')
 plt.xlabel('Time m:ss')
 plt.show()
