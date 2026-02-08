@@ -7,9 +7,8 @@
 
 
 <h2>Dependancies: </h2>
-<p>Librosa</p>
+<p>Librosa >v.11</p>
 <p>Matplotlib</p>
-<p>Numpy</p>
-<p>IPython</p>
-<p>Pandas</p>
-<p>Scipy</p>
+<p>Numpy < v2.3</p>
+<p>Pandas >v2.3.3</p>
+<p>Scipy > v1.13</p>
