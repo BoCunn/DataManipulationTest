@@ -7,6 +7,7 @@
 
 
 <h2>Dependancies: </h2>
+<p>Python 3.11.14</p>
 <p>Librosa >v.11</p>
 <p>Matplotlib</p>
 <b><p>Numpy < v2.3</p></b>
